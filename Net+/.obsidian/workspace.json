@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "bcf606819c3aeb02",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ad31aa9d3eba709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daa382ddc7976784",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96384048d321033f",
+    "type": "split",
+    "children": [
+      {
+        "id": "391a37e9372a8030",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3917eb50ca85a02f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "77861e8037540fb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9bd02c868e086590",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7abaaf6848de620",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ca7dc8c6d73ab19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7a540c34e554f72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "7706c54ea255c13f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "accc03e3b71a7dcd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9d2075c41f5884db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "6074ec92c05f74ef",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "0895168ffa8cb120",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3917eb50ca85a02f",
+  "lastOpenFiles": [
+    "Ny(tt) Textdokument.txt",
+    "Ny mapp",
+    "Networking/1/1.3/DESIGNING THE CLOUD/CLOUD COMPONENTS/VPC COMPONENTS/VIRTUAL PRIVATE CLOUD GATEAWAY - INTERNET GATEAWAY.md",
+    "2026-02-01.md",
+    "Networking/1/1.3/DESIGNING THE CLOUD/CLOUD COMPONENTS/CLOUD COMPONENTS.md",
+    "Networking/1/1.3/DESIGNING THE CLOUD/DESIGNING THE CLOUD.md",
+    "Networking/1/1.3/DESIGNING THE CLOUD/REQUIREMENTS OF AN STABLE CLOUD.md",
+    "Networking/1/1.3/DESIGNING THE CLOUD/CLOUD COMPONENTS/VPC COMPONENTS/VIRTUAL PRIVATE CLOUDS.md",
+    "Networking/1/1.2/NETWORKING FUNCTIONS/VPN.md",
+    "Networking/1/1.3/DESIGNING THE CLOUD/CLOUD COMPONENTS/VIRTUAL NETWORKS.md",
+    "Networking/1/1.3/DESIGNING THE CLOUD/CLOUD COMPONENTS/NETWORK FUNCTION VIRTUALIZATION.md",
+    "VIRTUAL PRIVATE CLOUD GATEAWAY/INTERNET GATEAWAY.md",
+    "VIRTUAL PRIVATE CLOUD GATEAWAY",
+    "COMPTIA NETWORKING +.md",
+    "Networking/1/1.2/NETWORKING FUNCTIONS/TTL.md",
+    "Networking/1/1.2/NETWORKING FUNCTIONS/Routing Loops.png",
+    "Networking/1/1.2/NETWORKING FUNCTIONS/ROUTING LOOPS.md",
+    "Networking/1/1.2/NETWORKING FUNCTIONS/QoS.md",
+    "Networking/1/1.2/NETWORKING FUNCTIONS/NETWORKING FUNCTIONS.md",
+    "Networking/1/1.2/NETWORKING FUNCTIONS/CDN.md",
+    "Networking/1/1.3/DESIGNING THE CLOUD/CLOUD COMPONENTS/VPC COMPONENTS",
+    "Networking/1/1.3/DESIGNING THE CLOUD/CLOUD COMPONENTS",
+    "Networking/1/1.2/NETWORKING DEVICES/ROUTERS.md",
+    "Networking",
+    "Networking/1/1.2/NETWORKING DEVICES/NETWORKING DEVICES.md",
+    "Networking/1/1.3/DESIGNING THE CLOUD",
+    "Networking/1/1.3",
+    "TTL].md",
+    "Time To Live.md",
+    "Networking/1/1.2/OSI MODEL/UNDERSTANDING THE OSI MODEL.md",
+    "Networking/1/1.2/OSI MODEL/APPLICATION LAYER.md",
+    "Networking/1/1.2/OSI MODEL/PRESENTATION LAYER.md",
+    "Networking/1/1.2/OSI MODEL/SESSION LAYER.md",
+    "Networking/1/1.2/OSI MODEL/TRANSPORT LAYER.md",
+    "Networking/1/1.2/NETWORKING FUNCTIONS",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Networking/1/1.2/NETWORKING DEVICES"
+  ]
+}
