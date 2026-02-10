@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SNMP.md",
+                "file": "LDAP - LDAPS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SNMP"
+              "title": "LDAP - LDAPS"
             }
           }
         ],
@@ -210,14 +210,16 @@
   "active": "f954786b67c29ca4",
   "lastOpenFiles": [
     "Networking/1/1.4/COMMON PORTS/COMMON PORTS.md",
-    "SNMP.md",
+    "LDAP - LDAPS.md",
+    "Networking/1/1.4/COMMON PORTS/SNMP TRAPS.md",
+    "Networking/1/1.4/COMMON PORTS/SNMP.md",
+    "Networking/1/1.4/COMMON PORTS/SMTP.md",
     "Networking/1/1.4/COMMON PORTS/NTP.md",
     "Networking/1/1.4/COMMON PORTS/HTTP - HTTPS.md",
     "Networking/1/1.4/COMMON PORTS/DNS.md",
     "Networking/1/1.4/COMMON PORTS/DHCP.md",
     "Networking/1/1.4/COMMON PORTS/FTP.md",
     "Networking/1/1.4/COMMON PORTS/SFTP.md",
-    "Networking/1/1.4/COMMON PORTS/SMTP.md",
     "Networking/1/1.4/COMMON PORTS/TFTP.md",
     "Networking/1/1.4/COMMON PORTS/TELNET.md",
     "Networking/1/1.4/COMMON PORTS/SSH.md",
@@ -235,8 +237,6 @@
     "Networking/1/1.3/DESIGNING THE CLOUD/CLOUD COMPONENTS/PRIVATE ENDPOINT.md",
     "Networking/1/1.3/DESIGNING THE CLOUD/CLOUD COMPONENTS/NETWORK FUNCTION VIRTUALIZATION.md",
     "Networking/1/1.3/DESIGNING THE CLOUD/CLOUD COMPONENTS/CLOUD COMPONENTS.md",
-    "Networking/1/1.3/DESIGNING THE CLOUD/CLOUD COMPONENTS/VPC COMPONENTS/VIRTUAL PRIVATE CLOUDS.md",
-    "Networking/1/1.3/DESIGNING THE CLOUD/CLOUD COMPONENTS/VPC COMPONENTS/VIRTUAL PRIVATE CLOUD GATEAWAY - INTERNET GATEAWAY.md",
     "Networking/1/1.4",
     "Networking/1/1.3/CLOUD MODELS",
     "Untitled.canvas",
