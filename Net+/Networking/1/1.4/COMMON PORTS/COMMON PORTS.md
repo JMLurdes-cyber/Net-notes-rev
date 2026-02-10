@@ -1,0 +1,22 @@
+This note will act as a hub to contain some essential ports (number + explanation) that i must learn for the exam:
+
+- [[FTP]]
+- [[SSH]]
+- [[SFTP]]
+- [[TELNET]]
+- [[SMTP]]
+- [[DNS]]
+- [[DHCP]]
+- [[TFTP]]
+- [[HTTP - HTTPS]]
+- [[NTP]]
+- [[SNMP]]
+- [[SNMP TRAPS]]
+- [[LDAP - LDAPS]]
+- [[SMB]]
+- [[SYSLOG]]
+- [[MSQL]]
+- [[RDP]]
+- [[SIP]]
+---
+[[COMPTIA NETWORKING +]]

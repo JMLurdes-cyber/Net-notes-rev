@@ -3,7 +3,7 @@
 There are several components used during the making of one:
 - [[VPN]]
 - [[VIRTUAL PRIVATE CLOUD GATEAWAY - INTERNET GATEAWAY]]
-- [[VPC ENDPOINT]]
+- [[PRIVATE ENDPOINT]]
 
 ---
 [[CLOUD COMPONENTS]]
