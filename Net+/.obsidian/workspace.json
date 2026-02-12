@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDAP - LDAPS.md",
+                "file": "Networking/1/1.4/COMMON PORTS/LDAP - LDAPS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "LDAP - LDAPS"
             }
+          },
+          {
+            "id": "e43d7c44cebb628a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/1/1.4/COMMON PORTS/SIP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SIP"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,36 +221,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f954786b67c29ca4",
+  "active": "3917eb50ca85a02f",
   "lastOpenFiles": [
     "Networking/1/1.4/COMMON PORTS/COMMON PORTS.md",
-    "LDAP - LDAPS.md",
+    "Networking/1/1.4/COMMON PORTS/SIP.md",
+    "Networking/1/1.4/COMMON PORTS/SYSLOG.md",
+    "Networking/1/1.4/COMMON PORTS/RDP.md",
+    "MySQL.md",
+    "Networking/1/1.2/NETWORKING DEVICES/IDS.md",
+    "Networking/1/1.2/NETWORKING DEVICES/NETWORKING DEVICES.md",
+    "Networking/1/1.2/NETWORKING DEVICES/ROUTERS.md",
+    "Networking/1/1.2/NETWORKING DEVICES/SWITCHES.md",
+    "Networking/1/1.2/NETWORKING DEVICES/FIREWALLS.md",
+    "Networking/1/1.2/NETWORKING DEVICES/ACCESS POINTS.md",
+    "Networking/1/1.2/OSI MODEL/PHYSICAL LAYER.md",
+    "Networking/1/1.2/OSI MODEL/DATA LINK LAYER.md",
+    "Networking/1/1.2/OSI MODEL/NETWORK LAYER.md",
+    "Networking/1/1.2/OSI MODEL/TRANSPORT LAYER.md",
+    "Networking/1/1.2/OSI MODEL/SESSION LAYER.md",
+    "Networking/1/1.2/OSI MODEL/PRESENTATION LAYER.md",
+    "Networking/1/1.2/OSI MODEL/APPLICATION LAYER.md",
+    "Networking/1/1.4/COMMON PORTS/SMB - CIFS.md",
+    "Networking/1/1.4/COMMON PORTS/LDAP - LDAPS.md",
+    "Networking/1/1.4/COMMON PORTS/DHCP.md",
+    "Networking/1/1.4/COMMON PORTS/DNS.md",
+    "Networking/1/1.4/COMMON PORTS/HTTP - HTTPS.md",
     "Networking/1/1.4/COMMON PORTS/SNMP TRAPS.md",
     "Networking/1/1.4/COMMON PORTS/SNMP.md",
     "Networking/1/1.4/COMMON PORTS/SMTP.md",
-    "Networking/1/1.4/COMMON PORTS/NTP.md",
-    "Networking/1/1.4/COMMON PORTS/HTTP - HTTPS.md",
-    "Networking/1/1.4/COMMON PORTS/DNS.md",
-    "Networking/1/1.4/COMMON PORTS/DHCP.md",
-    "Networking/1/1.4/COMMON PORTS/FTP.md",
-    "Networking/1/1.4/COMMON PORTS/SFTP.md",
-    "Networking/1/1.4/COMMON PORTS/TFTP.md",
-    "Networking/1/1.4/COMMON PORTS/TELNET.md",
-    "Networking/1/1.4/COMMON PORTS/SSH.md",
-    "active.md",
-    "active mode.md",
-    "Networking/1/1.2/OSI MODEL/NETWORK LAYER.md",
-    "Networking/1/1.4/INTRODUCTION TO IP/INTRODUCTION TO PORTS.md",
     "Networking/1/1.4/COMMON PORTS",
-    "Networking/1/1.4/INTRODUCTION TO IP/INTRODUCTION TO IP.md",
     "Networking/1/1.4/INTRODUCTION TO IP",
-    "Networking/1/1.3/DESIGNING THE CLOUD/REQUIREMENTS OF AN STABLE CLOUD.md",
-    "Networking/1/1.3/DESIGNING THE CLOUD/DESIGNING THE CLOUD.md",
-    "Networking/1/1.3/DESIGNING THE CLOUD/CLOUD SECURITY.md",
-    "Networking/1/1.3/DESIGNING THE CLOUD/CLOUD COMPONENTS/VIRTUAL NETWORKS.md",
-    "Networking/1/1.3/DESIGNING THE CLOUD/CLOUD COMPONENTS/PRIVATE ENDPOINT.md",
-    "Networking/1/1.3/DESIGNING THE CLOUD/CLOUD COMPONENTS/NETWORK FUNCTION VIRTUALIZATION.md",
-    "Networking/1/1.3/DESIGNING THE CLOUD/CLOUD COMPONENTS/CLOUD COMPONENTS.md",
     "Networking/1/1.4",
     "Networking/1/1.3/CLOUD MODELS",
     "Untitled.canvas",

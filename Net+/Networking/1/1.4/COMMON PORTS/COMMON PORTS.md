@@ -13,9 +13,9 @@ This note will act as a hub to contain some essential ports (number + explanatio
 - [[SNMP]]
 - [[SNMP TRAPS]]
 - [[LDAP - LDAPS]]
-- [[SMB]]
+- [[SMB - CIFS]]
 - [[SYSLOG]]
-- [[MSQL]]
+- [[MySQL]]
 - [[RDP]]
 - [[SIP]]
 ---
