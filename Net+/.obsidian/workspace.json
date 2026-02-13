@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/1/1.4/COMMON PORTS/SIP.md",
+                "file": "Networking/1/1.4/COMMON PORTS/SMB - CIFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SIP"
+              "title": "SMB - CIFS"
             }
           }
         ],
@@ -221,13 +221,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3917eb50ca85a02f",
+  "active": "e43d7c44cebb628a",
   "lastOpenFiles": [
+    "MySQL.md",
     "Networking/1/1.4/COMMON PORTS/COMMON PORTS.md",
-    "Networking/1/1.4/COMMON PORTS/SIP.md",
     "Networking/1/1.4/COMMON PORTS/SYSLOG.md",
     "Networking/1/1.4/COMMON PORTS/RDP.md",
-    "MySQL.md",
+    "Networking/1/1.4/COMMON PORTS/SIP.md",
+    "Networking/1/1.4/COMMON PORTS/TELNET.md",
+    "Networking/1/1.4/COMMON PORTS/FTP.md",
     "Networking/1/1.2/NETWORKING DEVICES/IDS.md",
     "Networking/1/1.2/NETWORKING DEVICES/NETWORKING DEVICES.md",
     "Networking/1/1.2/NETWORKING DEVICES/ROUTERS.md",
@@ -247,8 +249,6 @@
     "Networking/1/1.4/COMMON PORTS/DNS.md",
     "Networking/1/1.4/COMMON PORTS/HTTP - HTTPS.md",
     "Networking/1/1.4/COMMON PORTS/SNMP TRAPS.md",
-    "Networking/1/1.4/COMMON PORTS/SNMP.md",
-    "Networking/1/1.4/COMMON PORTS/SMTP.md",
     "Networking/1/1.4/COMMON PORTS",
     "Networking/1/1.4/INTRODUCTION TO IP",
     "Networking/1/1.4",
