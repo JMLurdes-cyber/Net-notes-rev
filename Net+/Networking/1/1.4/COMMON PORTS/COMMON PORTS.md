@@ -20,3 +20,4 @@ This note will act as a hub to contain some essential ports (number + explanatio
 - [[SIP]]
 ---
 [[COMPTIA NETWORKING +]]
+#ports-and-protocols 
