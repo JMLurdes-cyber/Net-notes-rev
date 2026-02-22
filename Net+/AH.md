@@ -1,1 +1,0 @@
-AH or Authentication Header is 
