@@ -7,4 +7,4 @@ IPSec, which stands for Internet Protocol Security, is used for authentication a
 	- [[ESP]]
 
 
-There are two kinds of IPSec tunnels, [[Transport Mode tunnel|transport Mode]] and [[TUNNEL MODE TUNNEL|tunnel mode]].
+There are two kinds of IPSec tunnels, [[TRANSPORT TUNNEL MODE|transport Mode]] and [[IPsec Tunnel Mode|tunnel mode]].

@@ -1,0 +1,1 @@
+- General term referred to the content/data being worked on/sent.

@@ -13,25 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/Transport Mode tunnel.md",
+                "file": "Networking/1/1.5/IEEE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transport Mode tunnel"
+              "title": "IEEE"
             }
           },
           {
             "id": "b100cc38548de078",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Networking/1/1.5/PLENUM.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PLENUM"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,51 +209,52 @@
   },
   "active": "3917eb50ca85a02f",
   "lastOpenFiles": [
-    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/ESP_Transport_Mode.png",
-    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/TUNNEL MODE TUNNEL.md",
-    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/Transport Mode tunnel.md",
-    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/ESP_Tunnel_mode.png",
-    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/IPSec.md",
-    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/ESP.md",
-    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/ESP.png",
-    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/AH.md",
-    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/AH.png",
-    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/VPN PROTOCOLS.md",
-    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/GRE_protocol.png",
-    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/GRE.md",
-    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/IKE_P2.png",
+    "Networking/1/1.5/COPPER CABLINGS/COPPER CABLINGS.md",
+    "Networking/1/1.5/PLENUM.md",
+    "Networking/1/1.5/COPPER CABLINGS/COAXIAL CABLES.md",
+    "Networking/1/1.5/COPPER CABLINGS/TWINAXIAL CABLES.md",
+    "Networking/1/1.5/COPPER CABLINGS/twinax.png",
+    "Networking/1/1.5/COPPER CABLINGS/coaxial_cable.png",
+    "Networking/1/1.5/FIBER OPTICS/FIBER OPTICS.md",
+    "Networking/1/1.5/COPPER CABLINGS/TWISTED COPPER.md",
+    "Networking/1/1.5/FIBER OPTICS/SINGLE MODE FIBER.md",
+    "Networking/1/1.5/FIBER OPTICS/MULTIMODE FIBER.md",
+    "Networking/1/1.5/FIBER OPTICS/singlemode.png",
+    "Networking/1/1.5/FIBER OPTICS/multimode-fiber.png",
+    "Networking/1/1.5/FIBER OPTICS",
+    "Networking/1/1.5/ETHERNET STANDARDS.md",
+    "Networking/1/1.5/COPPER CABLINGS",
+    "Networking/1/1.5/TYPES OF CONNECTIONS.md",
+    "COMPTIA NETWORKING +.md",
+    "payload.md",
+    "Networking/1/1.4/NETWORK COMMUNICATION/Anycast.md",
+    "EXPLAINING HOW CLOUDS ARE INTERCONNECTED.md",
+    "Networking/1/1.4/NETWORK COMMUNICATION/NETWORK COMMUNICATION.md",
+    "Networking/1/1.4/NETWORK COMMUNICATION/MULTICAST.md",
+    "Networking/1/1.4/NETWORK COMMUNICATION/BROADCAST.md",
+    "Networking/1/1.4/NETWORK COMMUNICATION/UNICAST.md",
+    "Networking/1/1.4/NETWORK COMMUNICATION/unicast.png",
+    "Networking/1/1.4/NETWORK COMMUNICATION/multicast.png",
+    "Networking/1/1.4/NETWORK COMMUNICATION/broadcast.png",
+    "Networking/1/1.5/IEEE.md",
+    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/ICMP.md",
     "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/IKE.png",
     "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/IKE.md",
-    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/GRE_Basics.jpg",
-    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/GRE_rough_basics.jpg",
+    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/GRE.md",
+    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/IPsec",
+    "Networking/1/1.4/NETWORK COMMUNICATION",
+    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/IPsec/ESP.md",
+    "Networking/1/1.5",
+    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/IPsec/AH.md",
+    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/IPsec/AH.png",
+    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/IPsec/IPsec Tunnel Mode.md",
+    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/IPsec/IPSec.md",
+    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/IPsec/ESP_Transport_Mode.png",
     "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS/GRE_rough_basics.drawio",
     "Networking/1/1.4/OTHER USEFUL PROTOCOLS/VPN PROTOCOLS",
-    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/OTHER USEFUL PROTOCOLS.md",
-    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/ICMP.md",
-    "payload.md",
-    "Networking/1/1.4/OTHER USEFUL PROTOCOLS/Untitled.md",
-    "Networking/1/1.4/INTRODUCTION TO IP/INTRODUCTION TO IP.md",
-    "COMPTIA NETWORKING +.md",
-    "Networking/1/1.4/INTRODUCTION TO IP/TCP AND UDP.md",
-    "Networking/1/1.4/INTRODUCTION TO IP/TCP.md",
-    "Networking/1/1.4/INTRODUCTION TO IP/INTRODUCTION TO PORTS.md",
-    "Networking/1/1.4/COMMON PORTS/COMMON PORTS.md",
-    "Networking/1/1.4/INTRODUCTION TO IP/UDP.md",
-    "Networking/1/1.4/INTRODUCTION TO IP/BASICS OF ENCAPSULATION.md",
     "Networking/1/1.4/OTHER USEFUL PROTOCOLS",
-    "Networking/1/1.4/COMMON PORTS/DNS.md",
-    "Networking/1/1.4/COMMON PORTS/LDAP - LDAPS.md",
-    "Networking/1/1.4/COMMON PORTS/SMB - CIFS.md",
-    "Networking/1/1.4/COMMON PORTS/MySQL.md",
-    "Networking/1/1.4/COMMON PORTS/SYSLOG.md",
     "Networking/1/1.4/COMMON PORTS",
     "Networking/1/1.4/INTRODUCTION TO IP",
-    "Networking/1/1.4",
-    "Networking/1/1.3/CLOUD MODELS",
-    "Untitled.canvas",
-    "Untitled Diagram.svg",
-    "Untitled.base",
-    "Ny(tt) Textdokument.txt",
-    "Ny mapp"
+    "Untitled.canvas"
   ]
 }

@@ -1,0 +1,4 @@
+- Usually found over the removable tiles of ceiling in some working enviroments (Remember A.T.)
+- Used for air distribution.
+- Used within networking to host cables available to the building/space, whilst keeping them out of constant sight.
+- Common networking cables burn fast and release a thick poisonous smoke, so to avoid safety hazards a plenum-rated networking cable needs to be used in them.
