@@ -6,4 +6,4 @@
 - Separated into two kinds of cables: [[SINGLE MODE FIBER|single mode fiber]] or [[MULTIMODE FIBER|multimode fiber]]
 
 ---
-[[COPPER CABLINGS]]
+[[TYPES OF CONNECTIONS]]

@@ -2,7 +2,7 @@ This point of the exam focuses on the more physical parts of a network connectio
 
 - [[ETHERNET STANDARDS]]
 - [[COPPER CABLINGS]]
-- [[FIBER COMMUNICATIONS]]
+- [[FIBER OPTICS]]
 - [[IEEE]]
 - [[WIRELES NETWORKS]]
 
