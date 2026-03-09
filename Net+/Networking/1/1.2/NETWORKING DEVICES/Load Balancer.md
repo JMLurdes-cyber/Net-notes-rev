@@ -4,5 +4,5 @@
 - They are placed to ensure both availabitlity and efficient handling of data. They perfomance.
 
 ---
-[[NETWORKING DEVICES]]
+[[Networking Devices]]
 #Layer4 #Layer7 

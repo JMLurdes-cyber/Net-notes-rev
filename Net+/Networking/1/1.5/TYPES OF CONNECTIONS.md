@@ -5,6 +5,8 @@ This point of the exam focuses on the more physical parts of a network connectio
 - [[FIBER OPTICS]]
 - [[IEEE]]
 - [[WIRELES NETWORKS]]
+- [[NETWORK TRANSCEIVERS]]
+- [[FIBER CONNECTORS]]
 
 
 

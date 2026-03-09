@@ -7,5 +7,5 @@
 
 
 ---
-[[NETWORKING DEVICES]]
+[[Networking Devices]]
 #network-troubleshooting  #Layer2 #Layer4 #Layer7 

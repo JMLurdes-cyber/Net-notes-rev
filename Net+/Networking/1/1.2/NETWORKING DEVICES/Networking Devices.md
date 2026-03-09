@@ -1,11 +1,11 @@
 Quick definitions of devices used over the network.
 
-- [[ROUTERS]]
-- [[FIREWALLS]]
-- [[SWITCHES]]
+- [[Routers]]
+- [[Firewalls]]
+- [[Switches]]
 - [[IDS]]
 - [[IPS]]
-- [[LOAD BALANCER]]
+- [[Load Balancer]]
 - [[PROXIES]]
 - [[NAS]]
 - [[SAN]]

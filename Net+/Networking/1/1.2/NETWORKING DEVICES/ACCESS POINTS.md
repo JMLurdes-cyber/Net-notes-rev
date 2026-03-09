@@ -2,5 +2,5 @@
 - Multiple APs (Access Points) can be connected together to keep seamless roaming.
 
 ---
-[[NETWORKING DEVICES]]
+[[Networking Devices]]
 #network-troubleshooting 

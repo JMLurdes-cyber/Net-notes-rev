@@ -3,5 +3,5 @@
 - It also logs events that occurred.
 
 ---
-[[NETWORKING DEVICES]]
+[[Networking Devices]]
 #network-troubleshooting  #Layer3 #Layer4 #Layer5 #Layer6 #Layer7 

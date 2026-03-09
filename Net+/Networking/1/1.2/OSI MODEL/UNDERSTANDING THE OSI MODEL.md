@@ -4,7 +4,7 @@ There are **7 layers**, each with a specific function.
 
 1. [[PHYSICAL LAYER]]
 2. [[DATA LINK LAYER]]
-3. [[NETWORK LAYER]]
+3. [[Network Layer]]
 4. [[TRANSPORT LAYER]]
 5. [[SESSION LAYER]]
 6. [[PRESENTATION LAYER]]

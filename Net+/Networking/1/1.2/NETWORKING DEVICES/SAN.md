@@ -4,5 +4,5 @@
 
 
 ---
-[[NETWORKING DEVICES]]
+[[Networking Devices]]
 #network-troubleshooting 

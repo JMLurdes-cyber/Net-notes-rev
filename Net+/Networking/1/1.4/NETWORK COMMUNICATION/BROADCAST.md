@@ -1,5 +1,5 @@
 - One-to-all send, sends to every connected device.
-- **[[IPv4]] only**
+- **[[IPv4 Addressing]] only**
 
 ![[broadcast.png]]
 

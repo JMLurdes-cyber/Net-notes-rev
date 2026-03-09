@@ -9,9 +9,9 @@ Instead computers break down data (or in computing terms, payload) into smaller,
 - Depending on the kind of transfer, this layer chooses a [[TCP AND UDP|TCP]] header for reliable transfers and [[TCP AND UDP|UDP]] header for faster transfers. 
 - This header takes carries the source [[INTRODUCTION TO PORTS|port]] and device and the destination [[INTRODUCTION TO PORTS|port]] and device.
 
-## [[NETWORK LAYER|Layer 3: Network Layer]]
+## [[Network Layer|Layer 3: Network Layer]]
 - This layer gives the payload an **IP Header**.
-- This header carries the source and destination's [[IP addresses]] and routing specifications, like [[TTL]].
+- This header carries the source and destination's [[IP Addresses]] and routing specifications, like [[TTL]].
 
 ## [[DATA LINK LAYER|Layer 2: Data Link Layer]]
 - This layer gives the payload a **Ethernet header and trailer**

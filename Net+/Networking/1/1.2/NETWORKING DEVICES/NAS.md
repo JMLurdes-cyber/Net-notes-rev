@@ -3,5 +3,5 @@
 - Common in homes or small businesses.
 - Uses file-level protocols like [[SMB - CIFS]].
 ---
-[[NETWORKING DEVICES]]
+[[Networking Devices]]
 #network-troubleshooting 

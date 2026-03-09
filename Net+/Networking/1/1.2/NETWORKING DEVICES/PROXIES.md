@@ -3,5 +3,5 @@
 - Can be used to block nsfw content in job networks, for example
 
 ---
-[[NETWORKING DEVICES]]
+[[Networking Devices]]
 #Layer4 #Layer7 #network-troubleshooting 
