@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "233e8b0263de62ca",
+        "id": "14533fde44407ba8",
         "type": "tabs",
         "children": [
           {
-            "id": "b100cc38548de078",
+            "id": "2cac03294b7a495a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/1/1.7/IPv4 Addressing/Internet Protocol version 4 (IPv4).md",
+                "file": "Full data flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Internet Protocol version 4 (IPv4)"
+              "title": "Full data flow"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "subnets",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Full data flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Full data flow"
             }
           },
           {
@@ -171,13 +171,11 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,54 +190,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b100cc38548de078",
+  "active": "2cac03294b7a495a",
   "lastOpenFiles": [
-    "Networking/1/1.7/IPv4 Addressing/IPv4 Addressing.md",
-    "Networking/1/1.7/IPv4 Addressing/Internet Protocol version 4 (IPv4).md",
-    "Networking/1/1.7/IPv4 Addressing/Basic IPv4 Addresses/IP Addresses.md",
-    "Networking/1/1.7/SUBNETTING.md",
-    "Networking/1/1.7/Binary Math.md",
-    "Networking/1/1.2/OSI MODEL/Network Layer.md",
-    "Networking/1/1.7/IPv4 Addressing/Special IPv4 Addresses/Virtual IP  Addresses (VIP).md",
-    "Networking/1/1.7/IPv4 Addressing/Special IPv4 Addresses/Loopback Addresses.md",
-    "Networking/1/1.2/NETWORKING DEVICES/Load Balancer.md",
-    "Networking/1/1.7/IPv4 Addressing/Special IPv4 Addresses/Reserved Addresses.md",
+    "TCP Three Way Handshake.md",
+    "Full data flow.md",
+    "Networking Concepts/Untitled Diagram.drawio.png",
+    "Networking Concepts/INTRODUCTION TO PORTS.md",
+    "Networking Concepts/Common Ports.md",
+    "Networking Concepts/TCP.md",
+    "Transport Header.md",
+    "TCP Header.md",
+    "Transport Layer Segments.md",
+    "Networking Concepts/NAT.md",
+    "Networking Concepts/UDP.md",
+    "First Hop Redundancy Protocols (FHRP).md",
+    "Networking Concepts/Default Gateway.md",
+    "Exterior Gateway Routing Protocol.md",
+    "Dynamic Routing.md",
+    "Metric.md",
+    "Networking Concepts/Routers.md",
+    "ARP.md",
+    "Network Layer Header.md",
+    "Administrative Distance.md",
+    "Networking Concepts/MAC Addresses.md",
+    "Networking Concepts/BASICS OF ENCAPSULATION.md",
+    "Networking Concepts/IPv4 Addressing.md",
+    "Networking Concepts/RFC.md",
+    "Networking Concepts/Data Link Frames.md",
+    "Networking Concepts/Frame trailer.md",
+    "Untitled 4.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Networking Concepts/Fundamentals_of_a_frame.png",
+    "Networking Concepts/Receiving_vs_Forwarding.png",
+    "Networking Concepts/Star.png",
+    "Networking Concepts/Spine_and_Leaf.png",
+    "Networking Concepts/mesh.png",
+    "Networking Concepts/hybrid.png",
+    "Networking Concepts/SFP.jpg",
+    "Networking Concepts/QSFP.jpeg",
+    "Networking Concepts/singlemode.png",
+    "Network Implementation",
+    "Networking Concepts",
+    "Networking/1/1.7/Classful Subnetting",
     "Networking/1/1.7/IPv4 Addressing/Special IPv4 Addresses",
     "Networking/1/1.7/IPv4 Addressing/Basic IPv4 Addresses",
-    "Networking/1/1.7/IPv4 Addressing/Basic IPv4 Addresses/Default Gateway.md",
-    "Networking/1/1.2/NETWORKING DEVICES/Switches.md",
-    "Networking/1/1.2/NETWORKING DEVICES/Routers.md",
-    "Networking/1/1.2/NETWORKING DEVICES/Firewalls.md",
-    "Networking/1/1.7/IPv4 Addressing/Basic IPv4 Addresses/Subnet Masks.md",
-    "IP addresses.md",
-    "Networking/1/1.7/IPv4 Addressing",
-    "Networking/Zettenkastels/1.2/2026-03-03PhysicalLayer.md",
-    "Networking/1/1.2/OSI MODEL/PHYSICAL LAYER.md",
-    "Networking/Zettenkastels/1.2/2026-03-03OsiModel.md",
-    "Networking/Zettenkastels/1.2/2023-03-03DataLinkLayer.md",
-    "Networking/Zettenkastels/1.2/2023-03-03NetworkLayer.md",
-    "Networking/Zettenkastels/1.2/2026-03-03TransportLayer.md",
-    "Networking/Zettenkastels/1.2/2026-03-03SessionLayer.md",
-    "Networking/1/1.2/OSI MODEL/SESSION LAYER.md",
-    "Networking/Zettenkastels/1.2/2026-03-03PresentationLayer.md",
-    "Networking/Zettenkastels/1.2/2026-03-03ApplicationLayer.md",
-    "Networking/1/1.7",
-    "Networking/1/1.6/Traffic Flows",
-    "Networking/1/1.6/Net. Architecture/Collapsed Core Architecture",
-    "Networking/Zettenkastels/1.2",
-    "Networking/Zettenkastels",
-    "Networking/1/1.6/Net. Architecture/Three Tiered Architecture",
-    "Networking/1/1.6/Net. Architecture",
-    "Networking/1/1.6/Net. Topologies/Spine_and_Leaf.png",
-    "Networking/1/1.6/Net. Topologies/hybrid.png",
-    "Networking/1/1.6/Net. Topologies/mesh.png",
-    "Networking/1/1.6/Net. Topologies/Star.png",
-    "Networking/1/1.5/FIBER CONNECTORS/ST.jpg",
-    "Networking/1/1.5/FIBER CONNECTORS/lc.jpg",
-    "Networking/1/1.5/FIBER CONNECTORS/sc.jpeg",
-    "Networking/1/1.5/NETWORK TRANSCEIVERS/SFP.jpg",
-    "Networking/1/1.5/NETWORK TRANSCEIVERS/QSFP.jpeg",
-    "Networking/1/1.5/COPPER CABLINGS/twinax.png",
     "Untitled.canvas"
   ]
 }

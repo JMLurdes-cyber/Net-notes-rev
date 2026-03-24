@@ -1,0 +1,2 @@
+- Value chosen to calculate the best route.
+- Some of the values may be the speed, status, availability, direct connection, etc.

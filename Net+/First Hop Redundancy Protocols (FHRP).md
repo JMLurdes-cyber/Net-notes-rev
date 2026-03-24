@@ -1,0 +1,5 @@
+- Not a single protocol, just a combination of commonly used protocols
+- Some of the protocols include:
+	- Virtual Router Redundancy Protocol (VRRP)
+	- Hot Standby Routing Protocol (HSRP) 
+	- Common Address Redundancy Protocol (CAR)

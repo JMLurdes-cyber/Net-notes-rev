@@ -1,5 +1,5 @@
 ## Concept
-- This layer handles the node-to-node communication within a LAN, through the use of [[Framing|framing]] and the [[MAC Addressing Table]]
+- This layer handles the node-to-node communication within a LAN, through the use of [[Data Link Frames|framing]] and the [[MAC Addressing Table]]
 
 ## Key Ideas
 - Handles the node-to-node communication within a LAN.
@@ -7,7 +7,7 @@
 - Handles data recovery when noticing data loss.
 
 ## Links
-[[MAC Adresses]], [[MAC Addressing Table]], [[Framing]], [[Switches]]
+[[MAC Addresses]], [[MAC Addressing Table]], [[Data Link Frames]], [[Switches]]
 
 ## Tags
 #frames #MACaddressing #MACAddressingTable #Switches #Layer2 

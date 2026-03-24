@@ -1,0 +1,4 @@
+- Always the last portion of a [[Subnets|subnet]].
+- Represents all the devices of the [[IP Host portion|host]] to the other [[IP Network portion|network portions]].
+- It also can help with communication **between networks**, even if we have other methods to attain the same means.
+- The standard is to have it always at last because at that point, all previous bits will be "on" (1s), which per rule in networking it means "everyone on this network."

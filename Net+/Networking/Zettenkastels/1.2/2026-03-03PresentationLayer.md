@@ -7,7 +7,7 @@
 - Handles the compression of data and the decompression when the data is being received.
 
 ## Links
-[[SSL - TLS]], [[MIME]], [[XDR]]
+[[SSL - TLS]] , [[MIME]], [[XDR]]
 
 ## Tags
 #osi-model #networking-foundations #Layer6 #SSL/TlS 
