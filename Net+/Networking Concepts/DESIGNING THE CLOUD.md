@@ -11,7 +11,7 @@ Running servers on-premise comes with numerous costs, like preparing the space r
 - [[REQUIREMENTS OF AN STABLE CLOUD]]
 - [[CLOUD COMPONENTS]]
 - [[EXPLAINING HOW CLOUDS ARE INTERCONNECTED]]
-- [[CLOUD SECURITY]]
+- [[Cloud Access and security]]
 
 
 ---

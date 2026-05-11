@@ -2,9 +2,9 @@
 **This is just a list of attributes that form up the cloud**.
 
 
-- [[VIRTUAL NETWORKS]]
-- [[NETWORK FUNCTION VIRTUALIZATION]]
-- [[VIRTUAL PRIVATE CLOUDS]]
+- [[Virtual Networks]]
+- [[Network Function Virtualization]]
+- [[Virtual Private Clouds (VPC)]]
 	- [[VPN]]
 	- [[VIRTUAL PRIVATE CLOUD GATEAWAY - INTERNET GATEAWAY]]
 	- [[VPC NAT GATEAWAY]]

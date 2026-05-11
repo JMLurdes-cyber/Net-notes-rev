@@ -3,6 +3,9 @@
 - The first 24 bits are the manufacturer's ID, which they get from [[IEEE]].
 - The last 24 bits can be switched whenever a device is created, thus ensuring that two devices within a network won't share a MAC (not an absolute, it can happen, even though it is rare)
 
+# Attack
+- [[MAC Flooding]]
+
 ---
 [[DATA LINK LAYER]]
 [[Switches]]

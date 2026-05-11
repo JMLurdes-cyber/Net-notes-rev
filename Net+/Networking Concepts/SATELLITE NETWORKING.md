@@ -5,4 +5,4 @@
 - Technically weather based, the communications will be broken during rainy or stormy weather.
 
 ---
-[[WIRELES NETWORKS]]
+[[WIRELESS NETWORKS]]

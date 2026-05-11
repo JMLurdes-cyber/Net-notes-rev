@@ -6,3 +6,4 @@ Takes a [[Private IP Addresses|private IP address]] and translates it to a [[Pub
 - Found in most [[Routers|routers]] by default.
 - Creates a Table that stores the values of both the internal and external IPs to be able to translate between the private and the public IPs
 -   The NAT table has inside and outside spots dedicated to : Sournce and Destination IPs and Source and destination ports. These are found on both internal and external NAT tables.
+- 

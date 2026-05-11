@@ -7,7 +7,7 @@
 - Uses [[IPv4 Addressing|IP addressing]] and the [[INTRODUCTION TO IP|IP protocol]] to create the route 
 
 ## Links
-[[IPv4 Addressing]], [[IPv6]], [[INTRODUCTION TO IP]], [[Routers]], [[VLANs]]
+[[IPv4 Addressing]], [[IPv6]], [[INTRODUCTION TO IP]], [[Routers]], [[VLAN]]
 
 ## Tags
 #Ip-addressing #Layer3 #routing #osi-model #networking-foundations #network-troubleshooting 

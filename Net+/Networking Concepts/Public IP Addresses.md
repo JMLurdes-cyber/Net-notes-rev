@@ -1,3 +1,3 @@
 # Concept
-The range of [[IP Addresses]] that actually are routed through the internet.
+The range of [[IPv4 Addresses]] that actually are routed through the internet.
 

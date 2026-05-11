@@ -1,5 +1,5 @@
 # Concept
-Range of [[IP Addresses]] that are never routed through the internet. They are used privately in businesses that require a network system.
+Range of [[IPv4 Addresses]] that are never routed through the internet. They are used privately in businesses that require a network system.
 
 # Key Ideas
 - [[Private Address Ranges|Ranges of IP addresses that are not routed through the internet]].

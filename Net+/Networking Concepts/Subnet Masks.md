@@ -8,7 +8,7 @@
  - Unlike the IP address, it isn't sent through the network.
 
 # [[IPv4 Addressing|Subnet Masks in IPv4 Addresses]]
- - Like an [[IP Addresses|IP address]], it is composed of 32 bits (4 bytes)
+ - Like an [[IPv4 Addresses|IP address]], it is composed of 32 bits (4 bytes)
 - Usually set up by the admin for ease of use.
 - Different subnets within the same network can have different subnet masks using [[VLSM]]
 

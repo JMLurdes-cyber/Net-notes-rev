@@ -6,7 +6,7 @@
 - Encompasses mostly the physical media.
 
 ## Links
-[[COPPER CABLINGS]], [[FIBER OPTICS]], [[WIRELES NETWORKS]]
+[[COPPER CABLINGS]], [[FIBER OPTICS]], [[WIRELESS NETWORKS]]
 
 ## Tags
 #layer1,  #fiber, #CopperCabling, #wirelessNetworks

@@ -1,0 +1,2 @@
+- -t is for continuous request, without stop unless the user stops it
+- -c is for an specific amount of requests, acting as a counter

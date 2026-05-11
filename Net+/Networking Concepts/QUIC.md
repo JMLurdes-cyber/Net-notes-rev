@@ -1,0 +1,2 @@
+- [[UDP]] based protocol
+- Used to perform similar tasks to [[TCP]] in UDP networks

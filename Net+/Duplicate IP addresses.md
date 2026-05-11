@@ -1,0 +1,2 @@
+- Two devices share a single IP address
+- The devices can try to use [[APIPA]] as a counter meassure

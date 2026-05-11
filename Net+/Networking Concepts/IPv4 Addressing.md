@@ -1,7 +1,7 @@
 [[Network Layer|Layer 3]] protocol that takes care of the routing performed between two networks.
 ## Bases of IPv4 Addresses
 IP Addressing refers to the practice of using IP addresses to be able to identify and work with devices within a network. There are several components that are related to this method:
-###### [[IP Addresses]]
+###### [[IPv4 Addresses]]
 	- Unique identifiers for each device within the network
 ###### [[Subnet Masks]]
 	 - Numbers that identify the subnet to which an IP is part of
@@ -39,3 +39,4 @@ The ranges of private networks are decided by [[RFC]].
 
 ---
 [[COMPTIA NETWORKING +]]
+#IPv6 #IPv6 #Ip-addressing 

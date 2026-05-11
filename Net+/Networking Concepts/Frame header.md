@@ -9,3 +9,4 @@
 	- **[[Data Link Frames|Frame]] type**: Tells the computer the kind of data that is being sent so the computer knows where to send it to. Some examples include [[ARP]], [[IPv4 Addressing|IPv4]], [[IPv6 addressing|IPv6]].
 	- **Flags/Syncronization (Preamble/SFD)**: Bits that tell the receiving computer to get ready to receive a transmission.
 	- **[[VLAN]] Tag (Optional)**: Tells the switch if the frame belongs ot an specific virtual network
+	- **Maximum Transmission Unit (MTU)**: delimits and gives a maximum size to the data sent through the Ethernet. It can be edited, but it shouldn't be as long as there isn't a good reason.

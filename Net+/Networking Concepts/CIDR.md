@@ -4,7 +4,7 @@ A kind of notation made to indicate in a standard manner the [[Subnet Masks|Subn
 # Key Ideas
 - Also known as Classless Inter Domain Routing
 - Count the amount of bits that are found on the subnet mask.
-- Add them to the end of the [[IP Addresses|IP]] to showcase their subnet.
+- Add them to the end of the [[IP Addresses]] to showcase their subnet.
 
 # Example
 1st. A more complex example to showcase it:

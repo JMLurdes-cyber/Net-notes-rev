@@ -5,5 +5,5 @@
 - One IGW/VPC.
 
 ---
-[[VIRTUAL PRIVATE CLOUDS]]
+[[Virtual Private Clouds (VPC)]]
 #cloud-computing 

@@ -1,4 +1,5 @@
 - SNMP or **Simple Network Manager Protocol**
+- Most device vendors incorporate it into firmware
 - It is used to gather information, events and statistics from all over the network. There are three versions of it:
 	- **V1**: 
 		- Useful for gathering information about singular events

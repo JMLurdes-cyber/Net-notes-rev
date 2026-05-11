@@ -6,7 +6,7 @@ Quick definitions of devices used over the network.
 - [[IDS]]
 - [[IPS]]
 - [[Load Balancer]]
-- [[PROXIES]]
+- [[Proxies]]
 - [[NAS]]
 - [[SAN]]
 - [[ACCESS POINTS]]

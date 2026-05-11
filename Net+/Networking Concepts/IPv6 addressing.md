@@ -24,7 +24,7 @@ An explanation about the bases of IPv6 Addresses, how they operate and how do th
 - FE80::/10
 ###### [[Loopback Addresses|Loopback]]
 - ::1
-###### [[MULTICAST|Multicast]]
+###### [[Multicast|Multicast]]
 - FF00::/8
 
 

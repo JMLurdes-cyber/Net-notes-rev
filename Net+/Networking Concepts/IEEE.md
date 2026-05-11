@@ -2,7 +2,7 @@ The IEEE or the **Institue of Electrical and Electronics Engineers** is the orga
 
 Their standards always follow a pattern: 802.x, x referring to the number associated with the standard.
 
-- Two examples are [[WIRELES NETWORKS|802.3 for wireless comms]] and [[ETHERNET STANDARDS|802.3 for cabled]]
+- Two examples are [[WIRELESS NETWORKS|802.3 for wireless comms]] and [[ETHERNET STANDARDS|802.3 for cabled]]
 ---
 
 [[Types of Connections]]

@@ -1,4 +1,4 @@
-- Group/Range of [[IP addresses]] within a network that identifies the specific network or subnet in where a device resides.
+- Group/Range of [[IP Addresses]] within a network that identifies the specific network or subnet in where a device resides.
 - Several devices can share a Network portion, granted that they are part of the same subnet.
 - Is like the name of the street in where the houses are found, being the houses the [[IP Host portion|Host portion]]
 
